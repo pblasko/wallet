@@ -1,0 +1,5 @@
+/* IonAlert komponens alapértelmezett színének beállítása success színre */
+ion-alert {
+    --background: var(--ion-color-success) !important; /* Az alert háttérszíne */
+    --color:var(--ion-color-success) !important;
+  }
